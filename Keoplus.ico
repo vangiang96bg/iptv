@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Sky Sport F1
+http://103.56.160.133:8081/skysportf1/mpegts
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ (MyK+)" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd#EXTM3U
+
+
+
+#--*.*--Xflatsome--*.*--#
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
+http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
+https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+
+
